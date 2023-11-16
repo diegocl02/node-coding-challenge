@@ -1,0 +1,9 @@
+SaleID,ProductID,ProductName,Category,Quantity,UnitPrice,SaleDate,CustomerRegion
+001,101,"Widget A","Electronics",3,19.99,"2022-07-01","North America"
+002,102,"Gadget B","Home Appliances",2,29.99,"2022-07-02","Europe"
+003,103,"Widget C","Electronics",1,15.99,"2022-07-02","Asia"
+004,101,"Widget A","Electronics",5,19.99,"2022-07-03","North America"
+005,104,"Tool D","Hardware",4,24.99,"2022-07-03","Europe"
+006,102,"Gadget B","Home Appliances",3,29.99,"2022-07-04","Asia"
+007,105,"Appliance E","Home Appliances",2,35.99,"2022-07-05","North America"
+008,103,"Widget C","Electronics",2,15.99,"2022-07-05","Europe"
